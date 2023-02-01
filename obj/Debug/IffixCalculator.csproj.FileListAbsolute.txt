@@ -1,0 +1,8 @@
+C:\Users\GOAT\source\repos\IffixCalculator\bin\Debug\IffixCalculator.exe.config
+C:\Users\GOAT\source\repos\IffixCalculator\bin\Debug\IffixCalculator.exe
+C:\Users\GOAT\source\repos\IffixCalculator\bin\Debug\IffixCalculator.pdb
+C:\Users\GOAT\source\repos\IffixCalculator\obj\Debug\IffixCalculator.csproj.AssemblyReference.cache
+C:\Users\GOAT\source\repos\IffixCalculator\obj\Debug\IffixCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\GOAT\source\repos\IffixCalculator\obj\Debug\IffixCalculator.csproj.CoreCompileInputs.cache
+C:\Users\GOAT\source\repos\IffixCalculator\obj\Debug\IffixCalculator.exe
+C:\Users\GOAT\source\repos\IffixCalculator\obj\Debug\IffixCalculator.pdb
